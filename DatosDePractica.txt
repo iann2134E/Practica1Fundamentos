@@ -1,4 +1,4 @@
-Nombre
-Edad
-Deportes de alto impacto
-Deportes que realizas
+Nombre: Iann Emmanuel Ramírez Esquivel
+Edad: 19
+Deportes de alto impacto: Futbol America, Tocho Bandera, Waterpolo 
+Deportes que realizas: Tocho bandera
